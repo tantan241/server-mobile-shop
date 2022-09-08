@@ -1,0 +1,2183 @@
+{
+   
+  "products" : [
+    {
+      "id" : 1,
+      "type": "mobile",
+      "brand_id":1,
+      "brand": "Samsung", 
+      "name": "Samsung Galaxy A32",
+      "slug": "sumsung-galaxy-a32",
+      "price": 6000000,
+      "path": "https://cdn.tgdd.vn/Products/Images/42/234315/samsung-galaxy-a32-4g-thumb-xanh-600x600-200x200.jpg",
+      "discount": 30,
+      "note":"Mua online nhận gói quà trị giá 850.000 vnđ"  ,
+      "display": "Super AMOLED6.4\"Full HD+",
+      "system" :"Android 11",
+      "front_camera" :"20 MP",
+      "rear_camera":"Chính 64 MP & Phụ 8 MP, 5MP, 5MP",
+      "chip": "MediaTek Helio G80",
+      "ram": "6 GB",
+      "rom": "128 GB",
+      "sim" :"2 Nano SIMHỗ trợ 4G",
+      "battery": "5000 mAh15 W",
+      "rating": 4,
+      "rating_number":19
+    },
+    {
+      "id" : 2,
+      "type": "mobile",
+      "brand_id":2,
+      "brand": "Iphone",
+      "name": "Iphone 12 Pro Max",
+      "slug": "iphone-12-pro-max",
+      "price": 16000000,
+      "path": "https://cdn.tgdd.vn/Products/Images/42/213033/iphone-12-pro-max-xam-new-600x600-200x200.jpg",
+      "discount": 12,
+      "note":"Mua online nhận gói quà trị giá 850.000 vnđ",
+      "display": "OLED6.7\"Super Retina XDR",
+      "system" :"iOS 15",
+      "front_camera" :"12 MP",
+      "rear_camera":"3 camera 12 MP",
+      "chip": "Apple A14 Bionic",
+      "ram": "6 GB",
+      "rom": "128 GB",
+      "sim" :"1 Nano SIM & 1 eSIMHỗ trợ 5G",
+      "battery": "3687 mAh20 W",
+      "rating": 4,
+      "rating_number":19
+    },
+    {
+      "id" : 3,
+      "type": "mobile",
+      "brand_id":4,
+      "brand": "Xiaomi",
+      "name": "Poco x3 pro",
+      "slug": "poco-x3-pro",
+      "price": 9000000,
+      "path": "https://cdn.tgdd.vn/Products/Images/42/235486/xiaomi-poco-x3-pro-600x600-1-600x600.jpg",
+      "discount": 35,
+      "note":"Mua online nhận gói quà trị giá 850.000 vnđ",
+      "display": "IPS LCD6.67\"Full HD+",
+      "system" :"Android 11",
+      "front_camera" :"20 MP",
+      "rear_camera":"Chính 48 MP & Phụ 8 MP, 2 MP, 2 MP",
+      "chip": "Snapdragon 860",
+      "ram": "8 GB",
+      "rom": "256 GB",
+      "sim" :"2 Nano SIMHỗ trợ 4G",
+      "battery": "5160 mAh",
+      "rating": 4,
+      "rating_number":19
+    },
+    {
+      "id" : 111,
+      "type": "accessory",
+      "type_accessory": "headphone",
+      "brand_id":2,
+      "brand": "Iphone",
+      "name": "Tai nghe Bluetooth AirPods Pro MagSafe Charge Apple MLWK3 Trắng",
+      "slug": "tai-nghe-bluetooth-airPods-pro-MasSafe-charge-apple-MLWK3-trang",
+      "price": 6790000,
+      "path": "https://cdn.tgdd.vn/Products/Images/54/253802/bluetooth-airpods-pro-magsafe-charge-apple-mlwk3-thumb-600x600.jpeg",
+      "discount": 20,
+      "rating": 4,
+      "rating_number":19
+    },
+    {
+      "id" : 112,
+      "type": "accessory",
+      "type_accessory": "charger",
+      "brand_id":1,
+      "brand": "Samsung",
+      "name": "Adapter sạc 3 cổng USB Type C PD 65W Samsung EP-T6530N Đen",
+      "slug": "Adapter-sạc-3-cổng-USB-Type-C-PD-65W-Samsung-EP-T6530N-Đen",
+      "price": 1490000,
+      "path": "https://cdn.tgdd.vn/Products/Images/9499/271813/adapter-sac-usb-type-c-pd-65w-samsung-ep-t6530n-thumb-600x600.jpeg",
+      "discount": 10,
+      "rating": 5,
+      "rating_number":22
+    },
+    {
+      "id" : 113,
+      "type": "accessory",
+      "type_accessory": "backup_charger",
+      "brand_id":5,
+      "brand": "AVA+",
+      "name": "Pin sạc dự phòng Polymer 10000mAh Type C AVA+ PB100S",
+      "slug": "Pin-sạc-dự-phòng-Polymer-10000mAh-Type-C-AVA+-PB100S",
+      "price": 550000,
+      "path": "https://cdn.tgdd.vn/Products/Images/57/245254/pin-polymer-10000mah-type-c-ava-pb100s-thumb-600x600.jpeg",
+      "discount": 50,
+      "rating": 3,
+      "rating_number":19
+    },
+    {
+      "id" : 114,
+      "type": "accessory",
+      "type_accessory": "phone_case",
+      "brand_id":5,
+      "brand": "AVA+",
+      "name": "Pin sạc dự phòng Polymer 10.000mAh AVA+ JP208 ",
+      "slug": "Pin-sạc-dự-phòng-Polymer-10.000mAh-AVA+_JP208 ",
+      "price": 275000,
+      "path": "https://cdn.tgdd.vn/Products/Images/57/244687/pin-polymer-10000mah-ava-plus-jp208-thumb-600x600.jpeg",
+      "discount": 5,
+      "rating": 3,
+      "rating_number":19
+    },
+    {
+      "id" : 115,
+      "type": "accessory",
+      "type_accessory": "headphone",
+      "brand_id":2,
+      "brand": "Iphone",
+      "name": "Tai nghe nhét trong EarPods Lightning Apple MMTN2 ",
+      "slug": "Tai-nghe-nhét-trong-EarPods-Lightning-Apple-MMTN2  ",
+      "price": 790000,
+      "path": "https://cdn.tgdd.vn/Products/Images/54/88053/tai-nghe-earpods-cong-lightning-apple-mmtn2-14-600x600.jpg",
+      "discount": 0,
+      "rating": 4,
+      "rating_number":1
+    },
+    {
+      "id" : 116,
+      "type": "accessory",
+      "type_accessory": "headphone",
+      "brand_id":1,
+      "brand": "Samsung",
+      "name": "Tai nghe Bluetooth Kanen K6 Xám Gold ",
+      "slug": "Tai-nghe-Bluetooth-Kanen-K6-Xám-Gold  ",
+      "price": 600000,
+      "path": "https://cdn.tgdd.vn/Products/Images/54/88053/tai-nghe-earpods-cong-lightning-apple-mmtn2-14-600x600.jpg",
+      "discount": 20,
+      "rating": 4,
+      "rating_number":13
+    },
+    {
+      "id" : 117,
+      "type": "accessory",
+      "type_accessory": "headphone",
+      "brand_id":2,
+      "brand": "Iphone",
+      "name": "Tai nghe nhét trong EarPods Lightning Apple MMTN2 ",
+      "slug": "Tai-nghe-chụp-tai-Bluetooth-AirPods-Max-Apple-MGYH3  ",
+      "price": 13990000,
+      "path": "https://cdn.tgdd.vn/Products/Images/54/236331/bluetooth-airpods-max-apple-thumb-600x600.jpeg",
+      "discount": 5,
+      "rating": 4,
+      "rating_number":12
+    },
+    {
+      "id" : 118,
+      "type": "accessory",
+      "type_accessory": "backup_charger",
+      "brand_id":4,
+      "brand": "Xiaomi",
+      "name": "Pin sạc dự phòng Polymer 10.000 mAh Type C Xiaomi Redmi VXN4286GL",
+      "slug": "Pin-sạc-dự-phòng-Polymer-10.000-mAh-Type-C-Xiaomi-Redmi-VXN4286GL",
+      "price": 1000000,
+      "path": "https://cdn.tgdd.vn/Products/Images/57/226703/pin-sac-du-phong-10000mah-xiaomi-redmi-type-c-thumb-600x600.jpeg",
+      "discount": 26,
+      "rating": 3,
+      "rating_number":12
+    },
+    {
+      "id" : 119,
+      "type": "accessory",
+      "type_accessory": "backup_charger",
+      "brand_id":4,
+      "brand": "Xiaomi",
+      "name": "Pin sạc dự phòng Polymer 20.000 mAh 2C Xiaomi VNX4212CN Trắng",
+      "slug": "Pin-sạc-dự-phòng-Polymer-20.000-mAh-2C-Xiaomi-VNX4212CN-Trắng",
+      "price": 1750000,
+      "path": "https://cdn.tgdd.vn/Products/Images/57/150956/pin-sac-du-phong-20000-mah-xiaomi-vnx4212cn-trang-anhava-600x600.jpg",
+      "discount": 5,
+      "rating": 2,
+      "rating_number":1
+    },
+    {
+      "id" : 120,
+      "type": "accessory",
+      "type_accessory": "backup_charger",
+      "brand_id":4,
+      "brand": "Xiaomi",
+      "name": "Pin sạc dự phòng Polymer 10.000mAh Type C Fast Charge Xiaomi Mi Power Bank 3",
+      "slug": "Pin-sạc-dự-phòng-Polymer-10.000mAh-Type-C-Fast-Charge-Xiaomi-Mi-Power-Bank-3",
+      "price": 700000,
+      "path": "https://cdn.tgdd.vn/Products/Images/57/216136/pin-sac-du-phong-polymer-10000mah-xiaomi-mi-18w-avatar-1-1-600x600.jpg",
+      "discount": 5,
+      "rating": 4,
+      "rating_number":45
+    },
+    {
+      "id" : 4,
+      "type": "mobile",
+      "brand_id":2,
+      "brand": "Iphone",
+      "name": "Iphone 11",
+      "slug": "iphone-11",
+      "price": 9000000,
+      "path": "https://cdn.hoanghamobile.com/i/preview/Uploads/2020/09/17/apple-iphone-11-64gb-6.1.jpg",
+      "discount": 23
+    },
+    {
+      "id" : 5,
+      "type": "mobile",
+      "brand_id":2,
+      "brand": "Iphone",
+      "name": "Iphone 11 Pro Max",
+      "slug": "iphone-11-pro-max",
+      "price": 10000000,
+      "path": "https://cdn.tgdd.vn/Products/Images/42/200533/iphone-11-pro-max-green-600x600.jpg",
+      "discount": 15,
+      "note":"Mua online nhận gói quà trị giá 850.000 vnđ"
+    },
+    {
+      "id" : 6,
+      "type": "mobile",
+      "brand_id":4,
+      "brand": "Xiaomi",
+      "name": "Redmi Note 10",
+      "slug": "redmi-note-10",
+      "price": 7000000,
+      "path": "https://cdn.tgdd.vn/Products/Images/42/222758/xiaomi-redmi-note-10-thumb-green-600x600.jpg",
+      "discount": 42
+    },
+    {
+      "id" : 7,
+      "type": "mobile",
+      "brand_id":3,
+      "brand": "Oppo",
+      "name": "OPPO Reno6 Pro",
+      "slug": "oppo-reno6-pro",
+      "price": 8500000,
+      "path": "https://htsg-store-gl.heytapimg.com/ebp/202108/11/1-M00-00-3C-CgGRkWETmsuAJ9buAACooRGkyIg493_1080_960.jpg",
+      "discount": 12
+    },
+    {
+      "id" : 8,
+      "type": "mobile",
+      "brand_id":3,
+      "brand": "Oppo",
+      "name": "OPPO Zano7 Z 5G",
+      "slug": "opp0-zano7-z-5g",
+      "price": 11000000,
+      "path": "https://cdn.tgdd.vn/Products/Images/42/271717/oppo-reno7-z-5g-thumb-1-1-600x600.jpg",
+      "discount": 20,
+      "note":"Mua online nhận gói quà trị giá 850.000 vnđ"
+     
+    },
+    {
+      "id" : 9,
+      "brand": "Samsung",
+      "brand_id":1,
+      "type": "mobile",
+      "name": "Samsung Galaxy A50",
+      "slug": "sumsung-galaxy-a50",
+      "price": 5000000,
+      "path": "https://cdn01.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture/Apro/Apro_product_28973/samsung-galaxy-_main_481_450.png.webp",
+      "discount": 28
+    
+    },
+    {
+      "id" : 10,
+      "type": "mobile",
+      "brand_id":4,
+      "brand": "Xiaomi",
+      "name": "Poco x3 Pro 5G",
+      "slug": "poco-x3-pro-5g",
+      "price": 9750000,
+      "path": "https://cdn.tgdd.vn/Products/Images/42/272266/xiaomi-poco-x4-pro-5g-010322-112421-600x600.jpg",
+      "discount": 0
+    }
+  ],
+  "accessories": [
+    {
+      "id" : 111,
+      "brand": "Iphone",
+      "type_accessory": "Tai nghe",
+      "name": "Tai nghe Bluetooth AirPods Pro MagSafe Charge Apple MLWK3 Trắng",
+      "slug": "Tai-nghe-Bluetooth-AirPods-Pro-MagSafe-Charge-Apple-MLWK3-Trắng",
+      "price": 6790000,
+      "path": "https://cdn.tgdd.vn/Products/Images/54/253802/bluetooth-airpods-pro-magsafe-charge-apple-mlwk3-thumb-600x600.jpeg",
+      "discount": 20,
+      "rating": 4,
+      "rating_number":19
+    },
+    {
+      "id" : 112,
+      "brand": "Samsung",
+      "type_accessory": "Củ sạc",
+      "name": "Adapter sạc 3 cổng USB Type C PD 65W Samsung EP-T6530N Đen ",
+      "slug": "Adapter-sạc-3-cổng-USB-Type-C-PD-65W-Samsung-EP-T6530N-Đen ",
+      "price": 1490000,
+      "path": "https://cdn.tgdd.vn/Products/Images/9499/271813/adapter-sac-usb-type-c-pd-65w-samsung-ep-t6530n-thumb-600x600.jpeg",
+      "discount": 10,
+      "rating": 4,
+      "rating_number":22
+    },
+    {
+      "id" : 113,
+      "brand": "AVA+",
+      "type_accessory": "Sạc dự phòng",
+      "name": "Pin sạc dự phòng Polymer 10000mAh Type C AVA+ PB100S",
+      "slug": "Pin-sạc-dự-phòng-Polymer-10000mAh-Type-C-AVA+-PB100S",
+      "price": 550000,
+      "path": "https://cdn.tgdd.vn/Products/Images/57/245254/pin-polymer-10000mah-type-c-ava-pb100s-thumb-600x600.jpeg",
+      "discount": 50,
+      "rating": 3,
+      "rating_number":19
+    },
+    {
+      "id" : 114,
+      "brand": "AVA+",
+      "type_accessory": "Sạc dự phòng",
+      "name": "Pin sạc dự phòng Polymer 10.000mAh AVA+ JP208 ",
+      "slug": "Pin-sạc-dự-phòng-Polymer-10.000mAh-AVA+-JP208 ",
+      "price": 275000,
+      "path": "https://cdn.tgdd.vn/Products/Images/57/244687/pin-polymer-10000mah-ava-plus-jp208-thumb-600x600.jpeg",
+      "discount": 5,
+      "rating": 3,
+      "rating_number":19
+    },
+    {
+      "id" : 115,
+      "brand": "Iphone",
+      "type_accessory": "Tai nghe",
+      "name": "Tai nghe nhét trong EarPods Lightning Apple MMTN2 ",
+      "slug": "Tai-nghe-nhét-trong-EarPods-Lightning-Apple-MMTN2 ",
+      "price": 790000,
+      "path": "https://cdn.tgdd.vn/Products/Images/54/88053/tai-nghe-earpods-cong-lightning-apple-mmtn2-14-600x600.jpg",
+      "discount": 0,
+      "rating": 4,
+      "rating_number":1
+    },
+    {
+      "id" : 116,
+      "brand": "Samsung",
+      "type_accessory": "Tai nghe",
+      "name": "Tai nghe Bluetooth Kanen K6 Xám Gold ",
+      "slug": "Tai-nghe-Bluetooth-Kanen-K6-Xám-Gold ",
+      "price": 600000,
+      "path": "https://salt.tikicdn.com/cache/400x400/ts/product/3b/8a/e3/f79109830e94a1f0d35b6df35db5a164.jpg.webp",
+      "discount": 20,
+      "rating": 4,
+      "rating_number":13
+    },
+    {
+      "id" : 117,
+      "brand": "Iphone",
+      "type_accessory": "Tai nghe",
+      "name": "Tai nghe chụp tai Bluetooth AirPods Max Apple MGYH3 ",
+      "slug": "Tai-nghe-chụp-tai-Bluetooth-AirPods-Max-Apple-MGYH3 ",
+      "price": 13990000,
+      "path": "https://cdn.tgdd.vn/Products/Images/54/236331/bluetooth-airpods-max-apple-thumb-600x600.jpeg",
+      "discount": 5,
+      "rating": 4,
+      "rating_number":12
+    },
+    {
+      "id" : 118,
+      "brand": "Xiaomi",
+      "type_accessory": "Sạc dự phòng",
+      "name": "Pin sạc dự phòng Polymer 10.000 mAh Type C Xiaomi Redmi VXN4286GL",
+      "slug": "Pin-sạc-dự-phòng-Polymer-10.000-mAh-Type-C-Xiaomi-Redmi-VXN4286GL",
+      "price": 1000000,
+      "path": "https://cdn.tgdd.vn/Products/Images/57/226703/pin-sac-du-phong-10000mah-xiaomi-redmi-type-c-thumb-600x600.jpeg",
+      "discount": 26,
+      "rating": 3,
+      "rating_number":12
+    },
+    {
+      "id" : 119,
+      "brand": "Xiaomi",
+      "type_accessory": "Sạc dự phòng",
+      "name": "Pin sạc dự phòng Polymer 20.000 mAh 2C Xiaomi VNX4212CN Trắng",
+      "slug": "Pin-sạc-dự-phòng-Polymer-20.000-mAh-2C-Xiaomi-VNX4212CN-Trắng",
+      "price": 1750000,
+      "path": "https://cdn.tgdd.vn/Products/Images/57/150956/pin-sac-du-phong-20000-mah-xiaomi-vnx4212cn-trang-anhava-600x600.jpg",
+      "discount": 5,
+      "rating": 2,
+      "rating_number":1
+    },
+    {
+      "id" : 120,
+      "brand": "Xiaomi",
+      "type_accessory": "Sạc dự phòng",
+      "name": "Pin sạc dự phòng Polymer 10.000mAh Type C Fast Charge Xiaomi Mi Power Bank 3",
+      "slug": "Pin-sạc-dự-phòng-Polymer-10.000mAh-Type-C-Fast-Charge-Xiaomi-Mi-Power-Bank-3",
+      "price": 700000,
+      "path": "https://cdn.tgdd.vn/Products/Images/57/216136/pin-sac-du-phong-polymer-10000mah-xiaomi-mi-18w-avatar-1-1-600x600.jpg",
+      "discount": 5,
+      "rating": 4,
+      "rating_number":45
+    }
+  ],
+  "mobiles":[
+    {
+      "id" : 1,
+      "brand": "Samsung",
+      "name": "Samsung Galaxy A32",
+      "slug":"Samsung-Galaxy-A32",
+      "price": 6000000,
+      "path": "https://cdn.tgdd.vn/Products/Images/42/234315/samsung-galaxy-a32-4g-thumb-xanh-600x600-200x200.jpg",
+      "discount": 30,
+      "rating": 4,
+      "rating_number":19,
+      "note":"Mua online nhận gói quà trị giá 850.000 vnđ"  ,
+      "display": "Super AMOLED6.4\"Full HD+",
+      "system" :"Android 11",
+      "front_camera" :"20 MP",
+      "rear_camera":"Chính 64 MP & Phụ 8 MP, 5MP, 5MP",
+      "chip": "MediaTek Helio G80",
+      "ram": "6 GB",
+      "rom": "128 GB",
+      "sim" :"2 Nano SIMHỗ trợ 4G",
+      "battery": "5000 mAh15 W"
+    },
+    {
+      "id" : 2,
+      "brand": "Iphone",
+      "name": "Iphone 12 Pro Max",
+      "slug": "Iphone-12-Pro-Max",
+      "price": 16000000,
+      "path": "https://cdn.tgdd.vn/Products/Images/42/213033/iphone-12-pro-max-xam-new-600x600-200x200.jpg",
+      "discount": 12,
+      "note":"Mua online nhận gói quà trị giá 850.000 vnđ",
+      "display": "OLED6.7\"Super Retina XDR",
+      "system" :"iOS 15",
+      "front_camera" :"12 MP",
+      "rear_camera":"3 camera 12 MP",
+      "chip": "Apple A14 Bionic",
+      "ram": "6 GB",
+      "rom": "128 GB",
+      "sim" :"1 Nano SIM & 1 eSIMHỗ trợ 5G",
+      "battery": "3687 mAh20 W"
+    },
+    {
+      "id" : 3,
+      "brand": "Xiaomi",
+      "name": "Poco x3 pro",
+      "slug": "Poco-x3-pro",
+      "price": 9000000,
+      "path": "https://cdn.tgdd.vn/Products/Images/42/235486/xiaomi-poco-x3-pro-600x600-1-600x600.jpg",
+      "discount": 35,
+      "note":"Mua online nhận gói quà trị giá 850.000 vnđ",
+      "display": "IPS LCD6.67\"Full HD+",
+      "system" :"Android 11",
+      "front_camera" :"20 MP",
+      "rear_camera":"Chính 48 MP & Phụ 8 MP, 2 MP, 2 MP",
+      "chip": "Snapdragon 860",
+      "ram": "8 GB",
+      "rom": "256 GB",
+      "sim" :"2 Nano SIM,Hỗ trợ 4G",
+      "battery": "5160 mAh"
+    },
+    {
+      "id" : 4,
+      "brand": "Iphone",
+      "name": "Iphone 11",
+      "slug": "Iphone-11",
+      "price": 9000000,
+      "path": "https://cdn.hoanghamobile.com/i/preview/Uploads/2020/09/17/apple-iphone-11-64gb-6.1.jpg",
+      "discount": 23,
+      "display": "IPS LCD,6.1\",Liquid Retina",
+      "system" :"iOS 15",
+      "front_camera" :"12 MP",
+      "rear_camera":"2 camera 12 MP",
+      "chip": "Apple A13 Bionic",
+      "ram": "4 GB",
+      "rom": "64 GB",
+      "sim" :"1 Nano SIM & 1 eSIM,Hỗ trợ 4G",
+      "battery": "3110 mAh,18 W",
+      "rating": 27,
+      "rating_number":4
+    },
+    {
+      "id" : 5,
+      "brand": "Iphone",
+      "name": "Iphone 11 Pro Max",
+      "slug": "Iphone-11-Pro-Max",
+      "price": 10000000,
+      "path": "https://cdn.tgdd.vn/Products/Images/42/200533/iphone-11-pro-max-green-600x600.jpg",
+      "discount": 15,
+      "note":"Mua online nhận gói quà trị giá 850.000 vnđ",
+      "display": "OLED,6.5\",Super Retina XDR",
+      "system" :"iOS 14",
+      "front_camera" :"12 MP",
+      "rear_camera":"3 camera 12 MP",
+      "chip": "Apple A13 Bionic",
+      "ram": "4 GB",
+      "rom": "64 GB",
+      "sim" :"1 Nano SIM & 1 eSIM,Hỗ trợ 4G",
+      "battery": "3969 mAh",
+      "rating": 27,
+      "rating_number":4
+    },
+    {
+      "id" : 6,
+      "brand": "Xiaomi",
+      "name": "Redmi Note 10",
+      "slug": "Redmi-Note-10",
+      "price": 7000000,
+      "path": "https://cdn.tgdd.vn/Products/Images/42/222758/xiaomi-redmi-note-10-thumb-green-600x600.jpg",
+      "discount": 42,
+      "display": "AMOLED,6.43\",Full HD+",
+      "system" :"Android 11",
+      "front_camera" :"13 MP",
+      "rear_camera":"Chính 48 MP & Phụ 8 MP, 2 MP, 2 MP",
+      "chip": "Snapdragon 678",
+      "ram": "6 GB",
+      "rom": "128 GB",
+      "sim" :"2 Nano SIM,Hỗ trợ 4G",
+      "battery": "5000 mAh,33 W"
+    },
+    {
+      "id" : 7,
+      "brand": "Oppo",
+      "name": "OPPO Reno6 Pro",
+      "slug": "OPPO-Reno6-Pro",
+      "price": 8500000,
+      "path": "https://htsg-store-gl.heytapimg.com/ebp/202108/11/1-M00-00-3C-CgGRkWETmsuAJ9buAACooRGkyIg493_1080_960.jpg",
+      "discount": 12,
+      "display": "AMOLED,6.55\",Full HD+",
+      "system" :"Android 11",
+      "front_camera" :"32 MP",
+      "rear_camera":"Chính 50 MP & Phụ 16 MP, 13 MP, 2 MP",
+      "chip": "Snapdragon 870 5G",
+      "ram": "12 GB",
+      "rom": "256 GB",
+      "sim" :"2 Nano SIM,Hỗ trợ 5G",
+      "battery": "4500 mAh,65 W"
+    },
+    {
+      "id" : 8,
+      "brand": "Oppo",
+      "name": "OPPO Zano7 Z 5G",
+      "slug": "OPPO-Zano7-Z-5G",
+      "price": 11000000,
+      "path": "https://cdn.tgdd.vn/Products/Images/42/271717/oppo-reno7-z-5g-thumb-1-1-600x600.jpg",
+      "discount": 20,
+      "note":"Mua online nhận gói quà trị giá 850.000 vnđ",
+      "display": "AMOLED,6.5\",Full HD+",
+      "system" :"Android 11",
+      "front_camera" :"32 MP",
+      "rear_camera":"Chính 50 MP & Phụ 8 MP, 2 MP",
+      "chip": "Snapdragon 870 5G",
+      "ram": "12 GB",
+      "rom": "256 GB",
+      "sim" :"2 Nano SIM,Hỗ trợ 5G",
+      "battery": "4500 mAh,65 W"
+     
+    },
+    {
+      "id" : 9,
+      "brand": "Samsung",
+      "name": "Samsung Galaxy A50",
+      "slug": "Samsung-Galaxy-A50",
+      "price": 5000000,
+      "path": "https://cdn01.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture/Apro/Apro_product_28973/samsung-galaxy-_main_481_450.png.webp",
+      "discount": 28,
+      "display": "Super AMOLED,6.4\",Full HD+",
+      "system" :"Android 9(Pie)",
+      "front_camera" :"25 MP",
+      "rear_camera":"Chính 25 MP & Phụ 8 MP, 5 MP",
+      "chip": "Exynos 9610",
+      "ram": "4 GB",
+      "rom": "64 GB",
+      "sim" :"2 Nano SIM",
+      "battery": "4000 mAh"
+     
+    
+    },
+    {
+      "id" : 10,
+      "brand": "Xiaomi",
+      "name": "Poco x4 Pro 5G",
+      "slug": "Poco-x4-Pro-5G",
+      "price": 9750000,
+      "path": "https://cdn.tgdd.vn/Products/Images/42/272266/xiaomi-poco-x4-pro-5g-010322-112421-600x600.jpg",
+      "discount": 0,
+      "display": "AMOLED,6.67\",Full HD+",
+      "system" :"Android 11",
+      "front_camera" :"16 MP",
+      "rear_camera":"Chính 108 MP & Phụ 8 MP, 2 MP",
+      "chip": "Snapdragon 695 5G",
+      "ram": "6 GB",
+      "rom": "128 GB",
+      "sim" :"2 Nano SIM,Hỗ trợ 5G",
+      "battery": "5000 mAh, 67W"
+    }
+    
+  ],
+  "product_detail":[
+  {
+    "id": 1,
+      "name": "Samsung Galaxy A32",
+      "price": 6000000,
+      "discount": 30,
+      "image":"https://cdn.tgdd.vn/Products/Images/42/234315/samsung-galaxy-a32-4g-thumb-xanh-600x600-200x200.jpg",
+      "images": [
+                {
+                   "id": 1,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/153856/Slider/vi-vn-iphone-11-tinhnang.jpg"
+                },
+                {
+                  "id": 2,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/261888/Slider/REALME-C35-1020x570.jpg"
+                },
+                {
+                 "id": 3,
+                 "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/Samsung-Galaxy-A23-1020x570-1.jpg"
+                },
+                {
+                "id": 4,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-1-1020x570-1.jpg"
+                },
+                {
+                "id": 5,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-2-1020x570.jpg"
+                },
+                {
+                "id": 6,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-5-1020x570-1.jpg"
+                }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Màn hình",
+        "title": "Super AMOLED6.4\"Full HD+"
+      }, {
+        "id": 2,
+        "name": "Camera trước",
+        "title": "25MP"
+      }, {
+        "id": 3,
+        "name": "Camera sau",
+        "title": "Chính 64 MP & Phụ 8 MP, 5MP, 5MP"
+      }, {
+        "id": 4,
+        "name": "Hệ điều hành",
+        "title": "Android 11"
+      }, {
+        "id": 5,
+        "name": "Chip",
+        "title": "MediaTek Helio G80"
+      }, {
+        "id": 6,
+        "name": "Ram",
+        "title": "6 GB"
+      }, {
+        "id": 7,
+        "name": "Bộ nhớ trong",
+        "title": "256 GB"
+      }, {
+        "id": 8,
+        "name": "Sim",
+        "title": "2 Nano SIMHỗ trợ 4G"
+      }, {
+        "id": 9,
+        "name": "Pin",
+        "title": "5000 mAh 15 W"
+      }],
+      "assess": 
+        {
+          "total": 278,
+          "star": 
+                {
+                  "star_1":2,
+                  "star_2": 6,
+                  "star_3": 238,
+                  "star_4": 22,
+                  "star_5": 10
+                },
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          },
+          {
+            "id":2,
+            "name_user": "Đỗ Văn Quân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/5F61E1D6-F88C-4721-B3DC-6FE0765EAEB0PYEGK.jpeg"
+          },
+          {
+            "id":3,
+            "name_user": "Vũ Viết Tân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 2,
+            "image": "https://cdn.tgdd.vn/comment/51982240/7230F870-6211-4567-A752-EAF2DCD900E0ITETG.jpeg"
+          },
+          {
+            "id":4,
+            "name_user": "Phạm Anh Tuấn",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 3,
+            "image": "https://cdn.tgdd.vn/comment/51666929/22EBB960-3C8C-47D6-942A-5D34A5290B8106FJJ.jpeg"
+          },
+          {
+            "id":5,
+            "name_user": "Nguyễn Hoàng Anh Quân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 1,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          },
+          {
+            "id":6,
+            "name_user": "Đỗ Văn Quân",
+            "content":" Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 1,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          },
+          {
+            "id":7,
+            "name_user": "Đỗ Văn Quân",
+            "content":" Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 1,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          },
+          {
+            "id":8,
+            "name_user": "Đỗ Văn Quân",
+            "content":" Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 1,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          },
+          {
+            "id":9,
+            "name_user": "Đỗ Văn Quân",
+            "content":" Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 1,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          },
+          {
+            "id":10,
+            "name_user": "Đỗ Văn Quân",
+            "content":" Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 1,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          },
+          {
+            "id":11,
+            "name_user": "Đỗ Văn Quân",
+            "content":" Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 1,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          },
+          {
+            "id":12,
+            "name_user": "Đỗ Văn Quân",
+            "content":" Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 1,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          },
+          {
+            "id":13,
+            "name_user": "Đỗ Văn Quân",
+            "content":" Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 1,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          }]
+        }
+      
+  
+  },
+  {
+    "id": 2,
+      "name": "Iphone 12 Pro Max",
+      "price": 16000000,
+      "discount": 12,
+      "image":"https://cdn.tgdd.vn/Products/Images/42/213033/iphone-12-pro-max-xam-new-600x600-200x200.jpg",
+      "images": [
+                {
+                   "id": 1,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/153856/Slider/vi-vn-iphone-11-tinhnang.jpg"
+                },
+                {
+                  "id": 2,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/261888/Slider/REALME-C35-1020x570.jpg"
+                },
+                {
+                 "id": 3,
+                 "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/Samsung-Galaxy-A23-1020x570-1.jpg"
+                },
+                {
+                "id": 4,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-1-1020x570-1.jpg"
+                },
+                {
+                "id": 5,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-2-1020x570.jpg"
+                },
+                {
+                "id": 6,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-5-1020x570-1.jpg"
+                }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Màn hình",
+        "title": "OLED6.7\"Super Retina XDR"
+      }, {
+        "id": 2,
+        "name": "Camera trước",
+        "title": "12 MP"
+      }, {
+        "id": 3,
+        "name": "Camera sau",
+        "title": "3 camera 12 MP"
+      }, {
+        "id": 4,
+        "name": "Hệ điều hành",
+        "title": "iOS 15"
+      }, {
+        "id": 5,
+        "name": "Chip",
+        "title": "Apple A14 Bionic"
+      }, {
+        "id": 6,
+        "name": "Ram",
+        "title": "6 GB"
+      }, {
+        "id": 7,
+        "name": "Bộ nhớ trong",
+        "title": "128 GB"
+      }, {
+        "id": 8,
+        "name": "Sim",
+        "title": "1 Nano SIM & 1 eSIMHỗ trợ 5G"
+      }, {
+        "id": 9,
+        "name": "Pin",
+        "title": "3687 mAh20 W"
+      }],
+      "assess": 
+        {
+          "total": 75,
+          "star": 
+                {
+                  "star_1":2,
+                  "star_2": 4,
+                  "star_3": 4,
+                  "star_4": 5,
+                  "star_5": 60
+                },
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          },
+          {
+            "id":2,
+            "name_user": "Đỗ Văn Quân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/5F61E1D6-F88C-4721-B3DC-6FE0765EAEB0PYEGK.jpeg"
+          }]
+        }
+      
+  
+  },
+  {
+    "id": 3,
+      "name": "Poco x3 pro",
+      "price": 9000000,
+      "discount": 35,
+      "image":"https://cdn.tgdd.vn/Products/Images/42/235486/xiaomi-poco-x3-pro-600x600-1-600x600.jpg",
+      "images": [
+                {
+                   "id": 1,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/153856/Slider/vi-vn-iphone-11-tinhnang.jpg"
+                },
+                {
+                  "id": 2,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/261888/Slider/REALME-C35-1020x570.jpg"
+                },
+                {
+                 "id": 3,
+                 "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/Samsung-Galaxy-A23-1020x570-1.jpg"
+                },
+                {
+                "id": 4,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-1-1020x570-1.jpg"
+                },
+                {
+                "id": 5,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-2-1020x570.jpg"
+                },
+                {
+                "id": 6,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-5-1020x570-1.jpg"
+                }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Màn hình",
+        "title": "IPS LCD6.67\"Full HD+"
+      }, {
+        "id": 2,
+        "name": "Camera trước",
+        "title": "20 MP"
+      }, {
+        "id": 3,
+        "name": "Camera sau",
+        "title": "Chính 48 MP & Phụ 8 MP, 2 MP, 2 MP"
+      }, {
+        "id": 4,
+        "name": "Hệ điều hành",
+        "title": "Android 11"
+      }, {
+        "id": 5,
+        "name": "Chip",
+        "title": "Snapdragon 860"
+      }, {
+        "id": 6,
+        "name": "Ram",
+        "title": "8 GB"
+      }, {
+        "id": 7,
+        "name": "Bộ nhớ trong",
+        "title": "256 GB"
+      }, {
+        "id": 8,
+        "name": "Sim",
+        "title": "2 Nano SIMHỗ trợ 4G"
+      }, {
+        "id": 9,
+        "name": "Pin",
+        "title": "5160 mAh"
+      }],
+      "assess": 
+        {
+          "total": 22,
+          "star": 
+                {
+                  "star_1":2,
+                  "star_2": 2,
+                  "star_3": 2,
+                  "star_4": 3,
+                  "star_5": 13
+                }
+                ,
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          },
+          {
+            "id":2,
+            "name_user": "Đỗ Văn Quân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/5F61E1D6-F88C-4721-B3DC-6FE0765EAEB0PYEGK.jpeg"
+          },
+          {
+            "id":3,
+            "name_user": "Vũ Viết Tân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 2,
+            "image": "https://cdn.tgdd.vn/comment/51982240/7230F870-6211-4567-A752-EAF2DCD900E0ITETG.jpeg"
+          },
+          {
+            "id":13,
+            "name_user": "Đỗ Văn Quân",
+            "content":" Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 1,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          }]
+        }
+      
+  
+  },
+  {
+    "id": 4,
+      "name": "Iphone 11",
+      "price": 9000000,
+      "discount": 23,
+      "image":"https://cdn.hoanghamobile.com/i/preview/Uploads/2020/09/17/apple-iphone-11-64gb-6.1.jpg",
+      "images": [
+                {
+                   "id": 1,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/261888/Slider/REALME-C35-1020x570.jpg"
+                },
+                {
+                  "id": 2,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/261888/Slider/REALME-C35-1020x570.jpg"
+                },
+                {
+                 "id": 3,
+                 "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/Samsung-Galaxy-A23-1020x570-1.jpg"
+                },
+                {
+                "id": 4,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-1-1020x570-1.jpg"
+                },
+                {
+                "id": 5,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-2-1020x570.jpg"
+                },
+                {
+                "id": 6,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-5-1020x570-1.jpg"
+                }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Màn hình",
+        "title": "IPS LCD,6.1\",Liquid Retina"
+      }, {
+        "id": 2,
+        "name": "Camera trước",
+        "title": "12MP"
+      }, {
+        "id": 3,
+        "name": "Camera sau",
+        "title": "2 camera 12 MP"
+      }, {
+        "id": 4,
+        "name": "Hệ điều hành",
+        "title": "iOS 15"
+      }, {
+        "id": 5,
+        "name": "Chip",
+        "title": "Apple A13 Bionic"
+      }, {
+        "id": 6,
+        "name": "Ram",
+        "title": "4 GB"
+      }, {
+        "id": 7,
+        "name": "Bộ nhớ trong",
+        "title": "64 GB"
+      }, {
+        "id": 8,
+        "name": "Sim",
+        "title": "1 Nano SIM & 1 eSIM,Hỗ trợ 4G"
+      }, {
+        "id": 9,
+        "name": "Pin",
+        "title": "3110 mAh,18 W"
+      }],
+      "assess": 
+        {
+          "total": 27,
+          "star": 
+                {
+                  "star_1":0,
+                  "star_2": 0,
+                  "star_3": 2,
+                  "star_4": 20,
+                  "star_5": 5
+                },
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          },
+          {
+            "id":2,
+            "name_user": "Đỗ Văn Quân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/5F61E1D6-F88C-4721-B3DC-6FE0765EAEB0PYEGK.jpeg"
+          },
+          {
+            "id":3,
+            "name_user": "Vũ Viết Tân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 2,
+            "image": "https://cdn.tgdd.vn/comment/51982240/7230F870-6211-4567-A752-EAF2DCD900E0ITETG.jpeg"
+          },
+          {
+            "id":4,
+            "name_user": "Phạm Anh Tuấn",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 3,
+            "image": "https://cdn.tgdd.vn/comment/51666929/22EBB960-3C8C-47D6-942A-5D34A5290B8106FJJ.jpeg"
+          },
+          {
+            "id":5,
+            "name_user": "Nguyễn Hoàng Anh Quân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 1,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          }]
+        }
+      
+  
+  },
+  {
+    "id": 5,
+      "name": "Iphone 11 Pro Max",
+      "price": 10000000,
+      "discount": 15,
+      "image":"https://cdn.tgdd.vn/Products/Images/42/200533/iphone-11-pro-max-green-600x600.jpg",
+      "images": [
+                {
+                   "id": 1,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/261888/Slider/REALME-C35-1020x570.jpg"
+                },
+                {
+                  "id": 2,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/261888/Slider/REALME-C35-1020x570.jpg"
+                },
+                {
+                 "id": 3,
+                 "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/Samsung-Galaxy-A23-1020x570-1.jpg"
+                },
+                {
+                "id": 4,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-1-1020x570-1.jpg"
+                },
+                {
+                "id": 5,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-2-1020x570.jpg"
+                },
+                {
+                "id": 6,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-5-1020x570-1.jpg"
+                }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Màn hình",
+        "title":  "OLED,6.5\",Super Retina XDR"
+      }, {
+        "id": 2,
+        "name": "Camera trước",
+        "title": "12MP"
+      }, {
+        "id": 3,
+        "name": "Camera sau",
+        "title": "3 camera 12 MP"
+      }, {
+        "id": 4,
+        "name": "Hệ điều hành",
+        "title": "iOS 14"
+      }, {
+        "id": 5,
+        "name": "Chip",
+        "title": "Apple A13 Bionic"
+      }, {
+        "id": 6,
+        "name": "Ram",
+        "title": "4 GB"
+      }, {
+        "id": 7,
+        "name": "Bộ nhớ trong",
+        "title": "64 GB"
+      }, {
+        "id": 8,
+        "name": "Sim",
+        "title": "1 Nano SIM & 1 eSIM,Hỗ trợ 4G"
+      }, {
+        "id": 9,
+        "name": "Pin",
+        "title": "3969 mAh"
+      }],
+      "assess": 
+        {
+          "total": 27,
+          "star": 
+                {
+                  "star_1":0,
+                  "star_2": 0,
+                  "star_3": 2,
+                  "star_4": 20,
+                  "star_5": 5
+                },
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          },
+          {
+            "id":2,
+            "name_user": "Đỗ Văn Quân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/5F61E1D6-F88C-4721-B3DC-6FE0765EAEB0PYEGK.jpeg"
+          },
+          {
+            "id":3,
+            "name_user": "Vũ Viết Tân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 2,
+            "image": "https://cdn.tgdd.vn/comment/51982240/7230F870-6211-4567-A752-EAF2DCD900E0ITETG.jpeg"
+          },
+          {
+            "id":4,
+            "name_user": "Phạm Anh Tuấn",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 3,
+            "image": "https://cdn.tgdd.vn/comment/51666929/22EBB960-3C8C-47D6-942A-5D34A5290B8106FJJ.jpeg"
+          },
+          {
+            "id":5,
+            "name_user": "Nguyễn Hoàng Anh Quân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 1,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          }]
+        }
+      
+  
+  },
+  {
+    "id": 6,
+      "name": "Redmi Note 10",
+      "price": 7000000,
+      "discount": 42,
+      "image":"https://cdn.tgdd.vn/Products/Images/42/222758/xiaomi-redmi-note-10-thumb-green-600x600.jpg",
+      "images": [
+                {
+                   "id": 1,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/261888/Slider/REALME-C35-1020x570.jpg"
+                },
+                {
+                  "id": 2,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/261888/Slider/REALME-C35-1020x570.jpg"
+                },
+                {
+                 "id": 3,
+                 "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/Samsung-Galaxy-A23-1020x570-1.jpg"
+                },
+                {
+                "id": 4,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-1-1020x570-1.jpg"
+                },
+                {
+                "id": 5,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-2-1020x570.jpg"
+                },
+                {
+                "id": 6,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-5-1020x570-1.jpg"
+                }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Màn hình",
+        "title":  "AMOLED,6.43\",Full HD+"
+      }, {
+        "id": 2,
+        "name": "Camera trước",
+        "title": "13MP"
+      }, {
+        "id": 3,
+        "name": "Camera sau",
+        "title": "Chính 48 MP & Phụ 8 MP, 2 MP, 2 MP"
+      }, {
+        "id": 4,
+        "name": "Hệ điều hành",
+        "title": "Android 11"
+      }, {
+        "id": 5,
+        "name": "Chip",
+        "title": "Snapdragon 678"
+      }, {
+        "id": 6,
+        "name": "Ram",
+        "title": "6 GB"
+      }, {
+        "id": 7,
+        "name": "Bộ nhớ trong",
+        "title": "128 GB"
+      }, {
+        "id": 8,
+        "name": "Sim",
+        "title": "2 Nano SIM,Hỗ trợ 4G"
+      }, {
+        "id": 9,
+        "name": "Pin",
+        "title": "5000 mAh,33 W"
+      }],
+      "assess": 
+        {
+          "total": 27,
+          "star": 
+                {
+                  "star_1":0,
+                  "star_2": 0,
+                  "star_3": 2,
+                  "star_4": 20,
+                  "star_5": 5
+                },
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          },
+          {
+            "id":2,
+            "name_user": "Đỗ Văn Quân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/5F61E1D6-F88C-4721-B3DC-6FE0765EAEB0PYEGK.jpeg"
+          },
+          {
+            "id":3,
+            "name_user": "Vũ Viết Tân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 2,
+            "image": "https://cdn.tgdd.vn/comment/51982240/7230F870-6211-4567-A752-EAF2DCD900E0ITETG.jpeg"
+          },
+          {
+            "id":4,
+            "name_user": "Phạm Anh Tuấn",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 3,
+            "image": "https://cdn.tgdd.vn/comment/51666929/22EBB960-3C8C-47D6-942A-5D34A5290B8106FJJ.jpeg"
+          },
+          {
+            "id":5,
+            "name_user": "Nguyễn Hoàng Anh Quân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 1,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          }]
+        }
+      
+  
+  },
+  {
+    "id": 7,
+      "name": "OPPO Reno6 Pro",
+      "price": 8500000,
+      "discount": 12,
+      "image":"https://htsg-store-gl.heytapimg.com/ebp/202108/11/1-M00-00-3C-CgGRkWETmsuAJ9buAACooRGkyIg493_1080_960.jpg",
+      "images": [
+                {
+                   "id": 1,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/261888/Slider/REALME-C35-1020x570.jpg"
+                },
+                {
+                  "id": 2,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/261888/Slider/REALME-C35-1020x570.jpg"
+                },
+                {
+                 "id": 3,
+                 "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/Samsung-Galaxy-A23-1020x570-1.jpg"
+                },
+                {
+                "id": 4,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-1-1020x570-1.jpg"
+                },
+                {
+                "id": 5,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-2-1020x570.jpg"
+                },
+                {
+                "id": 6,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-5-1020x570-1.jpg"
+                }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Màn hình",
+        "title":  "AMOLED,6.55\",Full HD+"
+      }, {
+        "id": 2,
+        "name": "Camera trước",
+        "title": "32MP"
+      }, {
+        "id": 3,
+        "name": "Camera sau",
+        "title": "Chính 50 MP & Phụ 16 MP, 13 MP, 2 MP"
+      }, {
+        "id": 4,
+        "name": "Hệ điều hành",
+        "title": "Android 11"
+      }, {
+        "id": 5,
+        "name": "Chip",
+        "title": "Snapdragon 870 5G"
+      }, {
+        "id": 6,
+        "name": "Ram",
+        "title": "12 GB"
+      }, {
+        "id": 7,
+        "name": "Bộ nhớ trong",
+        "title": "256 GB"
+      }, {
+        "id": 8,
+        "name": "Sim",
+        "title": "2 Nano SIM,Hỗ trợ 5G"
+      }, {
+        "id": 9,
+        "name": "Pin",
+        "title": "4500 mAh,65 W"
+      }],
+      "assess": 
+        {
+          "total": 27,
+          "star": 
+                {
+                  "star_1":0,
+                  "star_2": 0,
+                  "star_3": 2,
+                  "star_4": 20,
+                  "star_5": 5
+                },
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          },
+          {
+            "id":2,
+            "name_user": "Đỗ Văn Quân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/5F61E1D6-F88C-4721-B3DC-6FE0765EAEB0PYEGK.jpeg"
+          },
+          {
+            "id":3,
+            "name_user": "Vũ Viết Tân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 2,
+            "image": "https://cdn.tgdd.vn/comment/51982240/7230F870-6211-4567-A752-EAF2DCD900E0ITETG.jpeg"
+          },
+          {
+            "id":4,
+            "name_user": "Phạm Anh Tuấn",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 3,
+            "image": "https://cdn.tgdd.vn/comment/51666929/22EBB960-3C8C-47D6-942A-5D34A5290B8106FJJ.jpeg"
+          },
+          {
+            "id":5,
+            "name_user": "Nguyễn Hoàng Anh Quân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 1,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          }]
+        }
+      
+  
+  },
+  {
+    "id": 8,
+      "name": "OPPO Zano7 Z 5G",
+      "price": 11000000,
+      "discount": 20,
+      "image":"https://cdn.tgdd.vn/Products/Images/42/271717/oppo-reno7-z-5g-thumb-1-1-600x600.jpg",
+      "images": [
+                {
+                   "id": 1,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/261888/Slider/REALME-C35-1020x570.jpg"
+                },
+                {
+                  "id": 2,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/261888/Slider/REALME-C35-1020x570.jpg"
+                },
+                {
+                 "id": 3,
+                 "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/Samsung-Galaxy-A23-1020x570-1.jpg"
+                },
+                {
+                "id": 4,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-1-1020x570-1.jpg"
+                },
+                {
+                "id": 5,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-2-1020x570.jpg"
+                },
+                {
+                "id": 6,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-5-1020x570-1.jpg"
+                }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Màn hình",
+        "title": "AMOLED,6.5\",Full HD+"
+      }, {
+        "id": 2,
+        "name": "Camera trước",
+        "title": "32MP"
+      }, {
+        "id": 3,
+        "name": "Camera sau",
+        "title": "Chính 50 MP & Phụ 8 MP, 2 MP"
+      }, {
+        "id": 4,
+        "name": "Hệ điều hành",
+        "title": "Android 11"
+      }, {
+        "id": 5,
+        "name": "Chip",
+        "title": "Snapdragon 870 5G"
+      }, {
+        "id": 6,
+        "name": "Ram",
+        "title": "12 GB"
+      }, {
+        "id": 7,
+        "name": "Bộ nhớ trong",
+        "title": "256 GB"
+      }, {
+        "id": 8,
+        "name": "Sim",
+        "title": "2 Nano SIM,Hỗ trợ 5G"
+      }, {
+        "id": 9,
+        "name": "Pin",
+        "title": "4500 mAh,65 W"
+      }],
+      "assess": 
+        {
+          "total": 27,
+          "star": 
+                {
+                  "star_1":0,
+                  "star_2": 0,
+                  "star_3": 2,
+                  "star_4": 20,
+                  "star_5": 5
+                },
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          },
+          {
+            "id":2,
+            "name_user": "Đỗ Văn Quân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/5F61E1D6-F88C-4721-B3DC-6FE0765EAEB0PYEGK.jpeg"
+          },
+          {
+            "id":3,
+            "name_user": "Vũ Viết Tân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 2,
+            "image": "https://cdn.tgdd.vn/comment/51982240/7230F870-6211-4567-A752-EAF2DCD900E0ITETG.jpeg"
+          },
+          {
+            "id":4,
+            "name_user": "Phạm Anh Tuấn",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 3,
+            "image": "https://cdn.tgdd.vn/comment/51666929/22EBB960-3C8C-47D6-942A-5D34A5290B8106FJJ.jpeg"
+          },
+          {
+            "id":5,
+            "name_user": "Nguyễn Hoàng Anh Quân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 1,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          }]
+        }
+      
+  
+  },
+  {
+    "id": 9,
+      "name": "Samsung Galaxy A50",
+      "price": 5000000,
+      "discount": 28,
+      "image":"https://cdn01.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture/Apro/Apro_product_28973/samsung-galaxy-_main_481_450.png.webp",
+      "images": [
+                {
+                   "id": 1,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/261888/Slider/REALME-C35-1020x570.jpg"
+                },
+                {
+                  "id": 2,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/261888/Slider/REALME-C35-1020x570.jpg"
+                },
+                {
+                 "id": 3,
+                 "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/Samsung-Galaxy-A23-1020x570-1.jpg"
+                },
+                {
+                "id": 4,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-1-1020x570-1.jpg"
+                },
+                {
+                "id": 5,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-2-1020x570.jpg"
+                },
+                {
+                "id": 6,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-5-1020x570-1.jpg"
+                }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Màn hình",
+        "title": "Super AMOLED,6.4\",Full HD+"
+      }, {
+        "id": 2,
+        "name": "Camera trước",
+        "title": "25MP"
+      }, {
+        "id": 3,
+        "name": "Camera sau",
+        "title": "Chính 25 MP & Phụ 8 MP, 5 MP"
+      }, {
+        "id": 4,
+        "name": "Hệ điều hành",
+        "title": "Android 9(Pie)"
+      }, {
+        "id": 5,
+        "name": "Chip",
+        "title": "Exynos 9610"
+      }, {
+        "id": 6,
+        "name": "Ram",
+        "title": "4 GB"
+      }, {
+        "id": 7,
+        "name": "Bộ nhớ trong",
+        "title": "64 GB"
+      }, {
+        "id": 8,
+        "name": "Sim",
+        "title": "2 Nano SIM"
+      }, {
+        "id": 9,
+        "name": "Pin",
+        "title": "4000 mAh"
+      }],
+      "assess": 
+        {
+          "total": 27,
+          "star": 
+                {
+                  "star_1":0,
+                  "star_2": 0,
+                  "star_3": 2,
+                  "star_4": 20,
+                  "star_5": 5
+                },
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          },
+          {
+            "id":2,
+            "name_user": "Đỗ Văn Quân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/5F61E1D6-F88C-4721-B3DC-6FE0765EAEB0PYEGK.jpeg"
+          },
+          {
+            "id":3,
+            "name_user": "Vũ Viết Tân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 2,
+            "image": "https://cdn.tgdd.vn/comment/51982240/7230F870-6211-4567-A752-EAF2DCD900E0ITETG.jpeg"
+          },
+          {
+            "id":4,
+            "name_user": "Phạm Anh Tuấn",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 3,
+            "image": "https://cdn.tgdd.vn/comment/51666929/22EBB960-3C8C-47D6-942A-5D34A5290B8106FJJ.jpeg"
+          },
+          {
+            "id":5,
+            "name_user": "Nguyễn Hoàng Anh Quân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 1,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          }]
+        }
+      
+  
+  },
+  {
+    "id": 10,
+      "name": "Poco x4 Pro 5G",
+      "price": 9750000,
+      "discount": 0,
+      "image":"https://cdn.tgdd.vn/Products/Images/42/272266/xiaomi-poco-x4-pro-5g-010322-112421-600x600.jpg",
+      "images": [
+                {
+                   "id": 1,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/261888/Slider/REALME-C35-1020x570.jpg"
+                },
+                {
+                  "id": 2,
+                  "src": "https://cdn.tgdd.vn/Products/Images/42/261888/Slider/REALME-C35-1020x570.jpg"
+                },
+                {
+                 "id": 3,
+                 "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/Samsung-Galaxy-A23-1020x570-1.jpg"
+                },
+                {
+                "id": 4,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-1-1020x570-1.jpg"
+                },
+                {
+                "id": 5,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-2-1020x570.jpg"
+                },
+                {
+                "id": 6,
+                "src": "https://cdn.tgdd.vn/Products/Images/42/262650/Slider/A23-5-1020x570-1.jpg"
+                }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Màn hình",
+        "title": "AMOLED,6.67\",Full HD+"
+      }, {
+        "id": 2,
+        "name": "Camera trước",
+        "title": "25MP"
+      }, {
+        "id": 3,
+        "name": "Camera sau",
+        "title": "Chính 25 MP & Phụ 8 MP, 5 MP"
+      }, {
+        "id": 4,
+        "name": "Hệ điều hành",
+        "title": "Android 11"
+      }, {
+        "id": 5,
+        "name": "Chip",
+        "title": "Snapdragon 695 5G"
+      }, {
+        "id": 6,
+        "name": "Ram",
+        "title": "6 GB"
+      }, {
+        "id": 7,
+        "name": "Bộ nhớ trong",
+        "title": "128 GB"
+      }, {
+        "id": 8,
+        "name": "Sim",
+        "title": "2 Nano SIM,Hỗ trợ 5G"
+      }, {
+        "id": 9,
+        "name": "Pin",
+        "title": "5000 mAh, 67W"
+      }],
+      "assess": 
+        {
+          "total": 27,
+          "star": 
+                {
+                  "star_1":0,
+                  "star_2": 0,
+                  "star_3": 2,
+                  "star_4": 20,
+                  "star_5": 5
+                },
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          },
+          {
+            "id":2,
+            "name_user": "Đỗ Văn Quân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/5F61E1D6-F88C-4721-B3DC-6FE0765EAEB0PYEGK.jpeg"
+          },
+          {
+            "id":3,
+            "name_user": "Vũ Viết Tân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 2,
+            "image": "https://cdn.tgdd.vn/comment/51982240/7230F870-6211-4567-A752-EAF2DCD900E0ITETG.jpeg"
+          },
+          {
+            "id":4,
+            "name_user": "Phạm Anh Tuấn",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 3,
+            "image": "https://cdn.tgdd.vn/comment/51666929/22EBB960-3C8C-47D6-942A-5D34A5290B8106FJJ.jpeg"
+          },
+          {
+            "id":5,
+            "name_user": "Nguyễn Hoàng Anh Quân",
+            "content":"Đã chuyển từ XS Mã qua, cảm nhận về đt nhỏ gọn. Màn hình không phải là OLED nhưng cũng không tệ như mọi người nói đâu ạ. Do ko phải là OLED nên cũng rất ít tốn pin.",
+            "star": 1,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          }]
+        }
+      
+  
+  },
+  {
+    "id": 111,
+      "name": "Tai nghe Bluetooth AirPods Pro MagSafe Charge Apple MLWK3 Trắng",
+      "price": 6790000,
+      "discount": 20,
+      "image":"https://cdn.tgdd.vn/Products/Images/54/253802/bluetooth-airpods-pro-magsafe-charge-apple-mlwk3-thumb-600x600.jpeg",
+      "images": [
+            {
+              "id": 1,
+            "src": "https://cdn.tgdd.vn/Products/Images/54/253802/bluetooth-airpods-pro-magsafe-charge-apple-mlwk3-thumb-600x600.jpeg"
+          }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Pin",
+        "title": "Dùng 6 giờ - Sạc 2 giờ"
+      }, {
+        "id": 2,
+        "name": "Cổng sạc",
+        "title": "Lightning,Sạc không dây"
+      }, {
+        "id": 3,
+        "name": "Công nghệ âm thanh",
+        "title": "Adaptive EQChip Apple H1Custom high-excursion Apple driver,Custom High Dynamic Range Amplifier,Spatial Audio"
+      }, {
+        "id": 4,
+        "name": "Tương thích",
+        "title": "Android,iOS (iPhone),iPadOS (iPad),MacOS (Macbook, iMac)"
+      }, {
+        "id": 5,
+        "name": "Tiện ích",
+        "title": "Chống nước IPX4,Có mic thoạiSạc không dây"
+      }, {
+        "id": 6,
+        "name": "Hỗ trợ kết nối:",
+        "title": "Bluetooth 5.0"
+      }, {
+        "id": 7,
+        "name": "Điều khiển bằng:",
+        "title": "Cảm ứng lực"
+      }, {
+        "id": 8,
+        "name": "Hãng",
+        "title": "Apple"
+      }],
+      "assess": 
+        {
+          "total": 20,
+          "star": 
+                {
+                  "star_1":0,
+                  "star_2": 0,
+                  "star_3": 0,
+                  "star_4": 20,
+                  "star_5": 0
+                },
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Ngon, bổ, rẻ",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          }
+        ,{
+          "id":2,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 5,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":3,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        },{
+          "id":4,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":5,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }]
+        }
+      
+  
+  }],
+  
+  "brands":[
+    {
+      "id": 1,
+      "name": "Samsung"
+    }, {
+      "id": 2,
+      "name": "Iphone"
+    }, {
+      "id": 3,
+      "name": "Oppo"
+    }, {
+      "id": 4,
+      "name": "Xiaomi"
+    }
+    , {
+      "id": 5,
+      "name": "AVA+"
+    }
+  ],
+  "filtersHome": [
+    {
+      "id":1,
+      "name": "brand",
+      "title": "THƯƠNG HIỆU",
+      "children": [
+        {
+          "id": 1,
+          "name": "Samsung"
+        }, {
+          "id": 2,
+          "name": "Iphone"
+        }, {
+          "id": 3,
+          "name": "Oppo"
+        }, {
+          "id": 4,
+          "name": "Xiaomi"
+        }
+        , {
+          "id": 5,
+          "name": "AVA+"
+        }
+      ]
+    }
+  ],
+  "filtersMobile": [
+    {
+      "id":1,
+      "name": "brand",
+      "title": "THƯƠNG HIỆU",
+      "children": [
+        {
+          "id": 1,
+          "name": "Samsung"
+        }, {
+          "id": 2,
+          "name": "Iphone"
+        }, {
+          "id": 3,
+          "name": "Oppo"
+        }, {
+          "id": 4,
+          "name": "Xiaomi"
+        }
+      ]
+    },
+  
+    {
+      "id":2,
+      "name": "ram",
+      "title": "RAM",
+      "children": [
+        {
+          "id": 1,
+          "name": "4 GB"
+        }, {
+          "id": 2,
+          "name": "6 GB"
+        }, {
+          "id": 3,
+          "name": "8 GB"
+        }, {
+          "id": 4,
+          "name": "12 GB"
+        }
+        
+      ]
+    },
+    {
+      "id":3,
+      "name": "rom",
+      "title": "BỘ NHỚ TRONG",
+      "children": [
+        {
+          "id": 1,
+          "name": "16 GB"
+        }, {
+          "id": 2,
+          "name": "32 GB"
+        }, {
+          "id": 3,
+          "name": "64 GB"
+        }, {
+          "id": 4,
+          "name": "128 GB"
+        }, {
+          "id": 5,
+          "name": "256 GB"
+        }, {
+          "id": 6,
+          "name": "512 GB"
+        }
+        
+      ]
+    },
+    {
+      "id":4,
+      "name": "front_camera",
+      "title": "CAMERA TRƯỚC",
+      "children": [
+        {
+          "id": 1,
+          "name": "5 MP"
+        }, {
+          "id": 2,
+          "name": "10 MP"
+        }, {
+          "id": 3,
+          "name": "12 MP"
+        }
+        , {
+          "id": 4,
+          "name": "13 MP"
+        }, {
+          "id": 5,
+          "name": "16 MP"
+        }
+        , {
+          "id": 6,
+          "name": "20 MP"
+        }, {
+          "id": 7,
+          "name": "25 MP"
+        }, {
+          "id": 8,
+          "name": "32 MP"
+        }
+      ]
+    }
+  ],
+  "filtersAccessory": [
+    {
+      "id":1,
+      "name": "brand",
+      "title": "THƯƠNG HIỆU",
+      "children": [
+        {
+          "id": 1,
+          "name": "Samsung"
+        }, {
+          "id": 2,
+          "name": "Iphone"
+        }, {
+          "id": 3,
+          "name": "Oppo"
+        }, {
+          "id": 4,
+          "name": "Xiaomi"
+        }
+      ]
+    },
+    
+    {
+      "id":2,
+      "name": "type_accessory",
+      "title": "LOẠI PHỤ KIỆN",
+      "children": [
+        {
+          "id": 1,
+          "name": "Củ sạc"
+        }, {
+          "id": 2,
+          "name": "Tai nghe"
+        }, {
+          "id": 3,
+          "name": "Ốp điện thoại"
+        }, {
+          "id": 4,
+          "name": "Sạc dự phòng"
+        }
+      ]
+    }
+  ],
+  "compare": [
+    {
+      "id": 1,
+      "title": "Giá :",
+      "product_1":"9.000.000 vnđ",
+      "product_2":"5.000.000 vnđ"
+    },
+    {
+      "id": 2,
+      "title": "Màn hình:",
+      "product_1": "Super AMOLED6.4\"Full HD+",
+      "product_2":"test 2"
+    },
+    {
+      "id": 3,
+      "title": "Camera trước:",
+      "product_1": "test 1",
+      "product_2":"tes 2"
+    },
+    {
+      "id": 4,
+      "title": "Camera sau",
+      "product_1": "test 1",
+      "product_2":"tes 2"
+    },
+    {
+      "id": 5,
+      "title": "Hệ điều hành",
+      "product_1": "test 1",
+      "product_2":"tes 2"
+    },
+    {
+      "id": 6,
+      "title": "Chip",
+      "product_1": "test 1",
+      "product_2":"tes 2"
+    }
+  
+  ]
+  }
