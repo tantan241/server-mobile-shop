@@ -1946,6 +1946,871 @@
         }
       
   
+  }
+  ,
+  {
+    "id": 112,
+      "name": "Adapter sạc 3 cổng USB Type C PD 65W Samsung EP-T6530N Đen",
+      "price": 1490000,
+      "discount": 10,
+      "image":"https://cdn.tgdd.vn/Products/Images/9499/271813/adapter-sac-usb-type-c-pd-65w-samsung-ep-t6530n-thumb-600x600.jpeg",
+      "images": [
+            {
+              "id": 1,
+            "src": "https://cdn.tgdd.vn/Products/Images/54/253802/bluetooth-airpods-pro-magsafe-charge-apple-mlwk3-thumb-600x600.jpeg"
+          }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Pin",
+        "title": "Dùng 6 giờ - Sạc 2 giờ"
+      }, {
+        "id": 2,
+        "name": "Cổng sạc",
+        "title": "Lightning,Sạc không dây"
+      }, {
+        "id": 3,
+        "name": "Công nghệ âm thanh",
+        "title": "Adaptive EQChip Apple H1Custom high-excursion Apple driver,Custom High Dynamic Range Amplifier,Spatial Audio"
+      }, {
+        "id": 4,
+        "name": "Tương thích",
+        "title": "Android,iOS (iPhone),iPadOS (iPad),MacOS (Macbook, iMac)"
+      }, {
+        "id": 5,
+        "name": "Tiện ích",
+        "title": "Chống nước IPX4,Có mic thoạiSạc không dây"
+      }, {
+        "id": 6,
+        "name": "Hỗ trợ kết nối:",
+        "title": "Bluetooth 5.0"
+      }, {
+        "id": 7,
+        "name": "Điều khiển bằng:",
+        "title": "Cảm ứng lực"
+      }, {
+        "id": 8,
+        "name": "Hãng",
+        "title": "Apple"
+      }],
+      "assess": 
+        {
+          "total": 20,
+          "star": 
+                {
+                  "star_1":0,
+                  "star_2": 0,
+                  "star_3": 0,
+                  "star_4": 20,
+                  "star_5": 0
+                },
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Ngon, bổ, rẻ",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          }
+        ,{
+          "id":2,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 5,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":3,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        },{
+          "id":4,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":5,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }]
+        }
+      
+  
+  } ,
+  {
+    "id": 113,
+      "name": "Pin sạc dự phòng Polymer 10000mAh Type C AVA+ PB100S",
+      "price": 1490000,
+      "discount": 50,
+      "image":"https://cdn.tgdd.vn/Products/Images/57/245254/pin-polymer-10000mah-type-c-ava-pb100s-thumb-600x600.jpeg",
+      "images": [
+            {
+              "id": 1,
+            "src": "https://cdn.tgdd.vn/Products/Images/54/253802/bluetooth-airpods-pro-magsafe-charge-apple-mlwk3-thumb-600x600.jpeg"
+          }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Pin",
+        "title": "Dùng 6 giờ - Sạc 2 giờ"
+      }, {
+        "id": 2,
+        "name": "Cổng sạc",
+        "title": "Lightning,Sạc không dây"
+      }, {
+        "id": 3,
+        "name": "Công nghệ âm thanh",
+        "title": "Adaptive EQChip Apple H1Custom high-excursion Apple driver,Custom High Dynamic Range Amplifier,Spatial Audio"
+      }, {
+        "id": 4,
+        "name": "Tương thích",
+        "title": "Android,iOS (iPhone),iPadOS (iPad),MacOS (Macbook, iMac)"
+      }, {
+        "id": 5,
+        "name": "Tiện ích",
+        "title": "Chống nước IPX4,Có mic thoạiSạc không dây"
+      }, {
+        "id": 6,
+        "name": "Hỗ trợ kết nối:",
+        "title": "Bluetooth 5.0"
+      }, {
+        "id": 7,
+        "name": "Điều khiển bằng:",
+        "title": "Cảm ứng lực"
+      }, {
+        "id": 8,
+        "name": "Hãng",
+        "title": "Apple"
+      }],
+      "assess": 
+        {
+          "total": 20,
+          "star": 
+                {
+                  "star_1":0,
+                  "star_2": 0,
+                  "star_3": 0,
+                  "star_4": 20,
+                  "star_5": 0
+                },
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Ngon, bổ, rẻ",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          }
+        ,{
+          "id":2,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 5,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":3,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        },{
+          "id":4,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":5,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }]
+        }
+      
+  
+  } ,
+  {
+    "id": 114,
+      "name": "Pin sạc dự phòng Polymer 10.000mAh AVA+ JP208 ",
+      "price": 1490000,
+      "discount": 5,
+      "image":"https://cdn.tgdd.vn/Products/Images/57/244687/pin-polymer-10000mah-ava-plus-jp208-thumb-600x600.jpeg",
+      "images": [
+            {
+              "id": 1,
+            "src": "https://cdn.tgdd.vn/Products/Images/54/253802/bluetooth-airpods-pro-magsafe-charge-apple-mlwk3-thumb-600x600.jpeg"
+          }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Pin",
+        "title": "Dùng 6 giờ - Sạc 2 giờ"
+      }, {
+        "id": 2,
+        "name": "Cổng sạc",
+        "title": "Lightning,Sạc không dây"
+      }, {
+        "id": 3,
+        "name": "Công nghệ âm thanh",
+        "title": "Adaptive EQChip Apple H1Custom high-excursion Apple driver,Custom High Dynamic Range Amplifier,Spatial Audio"
+      }, {
+        "id": 4,
+        "name": "Tương thích",
+        "title": "Android,iOS (iPhone),iPadOS (iPad),MacOS (Macbook, iMac)"
+      }, {
+        "id": 5,
+        "name": "Tiện ích",
+        "title": "Chống nước IPX4,Có mic thoạiSạc không dây"
+      }, {
+        "id": 6,
+        "name": "Hỗ trợ kết nối:",
+        "title": "Bluetooth 5.0"
+      }, {
+        "id": 7,
+        "name": "Điều khiển bằng:",
+        "title": "Cảm ứng lực"
+      }, {
+        "id": 8,
+        "name": "Hãng",
+        "title": "Apple"
+      }],
+      "assess": 
+        {
+          "total": 20,
+          "star": 
+                {
+                  "star_1":0,
+                  "star_2": 0,
+                  "star_3": 0,
+                  "star_4": 20,
+                  "star_5": 0
+                },
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Ngon, bổ, rẻ",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          }
+        ,{
+          "id":2,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 5,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":3,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        },{
+          "id":4,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":5,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }]
+        }
+      
+  
+  } ,
+  {
+    "id": 115,
+      "name": "Tai nghe nhét trong EarPods Lightning Apple MMTN2  ",
+      "price": 790000,
+      "discount": 0,
+      "image":"https://cdn.tgdd.vn/Products/Images/54/88053/tai-nghe-earpods-cong-lightning-apple-mmtn2-14-600x600.jpg",
+      "images": [
+            {
+              "id": 1,
+            "src": "https://cdn.tgdd.vn/Products/Images/54/253802/bluetooth-airpods-pro-magsafe-charge-apple-mlwk3-thumb-600x600.jpeg"
+          }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Pin",
+        "title": "Dùng 6 giờ - Sạc 2 giờ"
+      }, {
+        "id": 2,
+        "name": "Cổng sạc",
+        "title": "Lightning,Sạc không dây"
+      }, {
+        "id": 3,
+        "name": "Công nghệ âm thanh",
+        "title": "Adaptive EQChip Apple H1Custom high-excursion Apple driver,Custom High Dynamic Range Amplifier,Spatial Audio"
+      }, {
+        "id": 4,
+        "name": "Tương thích",
+        "title": "Android,iOS (iPhone),iPadOS (iPad),MacOS (Macbook, iMac)"
+      }, {
+        "id": 5,
+        "name": "Tiện ích",
+        "title": "Chống nước IPX4,Có mic thoạiSạc không dây"
+      }, {
+        "id": 6,
+        "name": "Hỗ trợ kết nối:",
+        "title": "Bluetooth 5.0"
+      }, {
+        "id": 7,
+        "name": "Điều khiển bằng:",
+        "title": "Cảm ứng lực"
+      }, {
+        "id": 8,
+        "name": "Hãng",
+        "title": "Apple"
+      }],
+      "assess": 
+        {
+          "total": 20,
+          "star": 
+                {
+                  "star_1":0,
+                  "star_2": 0,
+                  "star_3": 0,
+                  "star_4": 20,
+                  "star_5": 0
+                },
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Ngon, bổ, rẻ",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          }
+        ,{
+          "id":2,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 5,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":3,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        },{
+          "id":4,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":5,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }]
+        }
+      
+  
+  } ,
+  {
+    "id": 116,
+      "name": "Tai nghe Bluetooth Kanen K6 Xám Gold ",
+      "price": 600000,
+      "discount": 20,
+      "image":"https://salt.tikicdn.com/cache/400x400/ts/product/3b/8a/e3/f79109830e94a1f0d35b6df35db5a164.jpg.webp",
+      "images": [
+            {
+              "id": 1,
+            "src": "https://cdn.tgdd.vn/Products/Images/54/253802/bluetooth-airpods-pro-magsafe-charge-apple-mlwk3-thumb-600x600.jpeg"
+          }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Pin",
+        "title": "Dùng 6 giờ - Sạc 2 giờ"
+      }, {
+        "id": 2,
+        "name": "Cổng sạc",
+        "title": "Lightning,Sạc không dây"
+      }, {
+        "id": 3,
+        "name": "Công nghệ âm thanh",
+        "title": "Adaptive EQChip Apple H1Custom high-excursion Apple driver,Custom High Dynamic Range Amplifier,Spatial Audio"
+      }, {
+        "id": 4,
+        "name": "Tương thích",
+        "title": "Android,iOS (iPhone),iPadOS (iPad),MacOS (Macbook, iMac)"
+      }, {
+        "id": 5,
+        "name": "Tiện ích",
+        "title": "Chống nước IPX4,Có mic thoạiSạc không dây"
+      }, {
+        "id": 6,
+        "name": "Hỗ trợ kết nối:",
+        "title": "Bluetooth 5.0"
+      }, {
+        "id": 7,
+        "name": "Điều khiển bằng:",
+        "title": "Cảm ứng lực"
+      }, {
+        "id": 8,
+        "name": "Hãng",
+        "title": "Apple"
+      }],
+      "assess": 
+        {
+          "total": 20,
+          "star": 
+                {
+                  "star_1":0,
+                  "star_2": 0,
+                  "star_3": 0,
+                  "star_4": 20,
+                  "star_5": 0
+                },
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Ngon, bổ, rẻ",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          }
+        ,{
+          "id":2,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 5,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":3,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        },{
+          "id":4,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":5,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }]
+        }
+      
+  
+  } ,
+  {
+    "id": 117,
+      "name": "Tai nghe chụp tai Bluetooth AirPods Max Apple MGYH3 ",
+      "price": 13990000,
+      "discount": 5,
+      "image":"https://cdn.tgdd.vn/Products/Images/54/236331/bluetooth-airpods-max-apple-thumb-600x600.jpeg",
+      "images": [
+            {
+              "id": 1,
+            "src": "https://cdn.tgdd.vn/Products/Images/54/253802/bluetooth-airpods-pro-magsafe-charge-apple-mlwk3-thumb-600x600.jpeg"
+          }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Pin",
+        "title": "Dùng 6 giờ - Sạc 2 giờ"
+      }, {
+        "id": 2,
+        "name": "Cổng sạc",
+        "title": "Lightning,Sạc không dây"
+      }, {
+        "id": 3,
+        "name": "Công nghệ âm thanh",
+        "title": "Adaptive EQChip Apple H1Custom high-excursion Apple driver,Custom High Dynamic Range Amplifier,Spatial Audio"
+      }, {
+        "id": 4,
+        "name": "Tương thích",
+        "title": "Android,iOS (iPhone),iPadOS (iPad),MacOS (Macbook, iMac)"
+      }, {
+        "id": 5,
+        "name": "Tiện ích",
+        "title": "Chống nước IPX4,Có mic thoạiSạc không dây"
+      }, {
+        "id": 6,
+        "name": "Hỗ trợ kết nối:",
+        "title": "Bluetooth 5.0"
+      }, {
+        "id": 7,
+        "name": "Điều khiển bằng:",
+        "title": "Cảm ứng lực"
+      }, {
+        "id": 8,
+        "name": "Hãng",
+        "title": "Apple"
+      }],
+      "assess": 
+        {
+          "total": 20,
+          "star": 
+                {
+                  "star_1":0,
+                  "star_2": 0,
+                  "star_3": 0,
+                  "star_4": 20,
+                  "star_5": 0
+                },
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Ngon, bổ, rẻ",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          }
+        ,{
+          "id":2,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 5,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":3,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        },{
+          "id":4,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":5,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }]
+        }
+      
+  
+  } ,
+  {
+    "id": 118,
+      "name": "Pin sạc dự phòng Polymer 10.000 mAh Type C Xiaomi Redmi VXN4286GL",
+      "price": 1000000,
+      "discount": 26,
+      "image":"https://cdn.tgdd.vn/Products/Images/57/226703/pin-sac-du-phong-10000mah-xiaomi-redmi-type-c-thumb-600x600.jpeg",
+      "images": [
+            {
+              "id": 1,
+            "src": "https://cdn.tgdd.vn/Products/Images/54/253802/bluetooth-airpods-pro-magsafe-charge-apple-mlwk3-thumb-600x600.jpeg"
+          }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Pin",
+        "title": "Dùng 6 giờ - Sạc 2 giờ"
+      }, {
+        "id": 2,
+        "name": "Cổng sạc",
+        "title": "Lightning,Sạc không dây"
+      }, {
+        "id": 3,
+        "name": "Công nghệ âm thanh",
+        "title": "Adaptive EQChip Apple H1Custom high-excursion Apple driver,Custom High Dynamic Range Amplifier,Spatial Audio"
+      }, {
+        "id": 4,
+        "name": "Tương thích",
+        "title": "Android,iOS (iPhone),iPadOS (iPad),MacOS (Macbook, iMac)"
+      }, {
+        "id": 5,
+        "name": "Tiện ích",
+        "title": "Chống nước IPX4,Có mic thoạiSạc không dây"
+      }, {
+        "id": 6,
+        "name": "Hỗ trợ kết nối:",
+        "title": "Bluetooth 5.0"
+      }, {
+        "id": 7,
+        "name": "Điều khiển bằng:",
+        "title": "Cảm ứng lực"
+      }, {
+        "id": 8,
+        "name": "Hãng",
+        "title": "Apple"
+      }],
+      "assess": 
+        {
+          "total": 20,
+          "star": 
+                {
+                  "star_1":0,
+                  "star_2": 0,
+                  "star_3": 0,
+                  "star_4": 20,
+                  "star_5": 0
+                },
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Ngon, bổ, rẻ",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          }
+        ,{
+          "id":2,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 5,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":3,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        },{
+          "id":4,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":5,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }]
+        }
+      
+  
+  } ,
+  {
+    "id": 119,
+      "name": "Pin sạc dự phòng Polymer 20.000 mAh 2C Xiaomi VNX4212CN Trắng",
+      "price": 1750000,
+      "discount": 5,
+      "image":"https://cdn.tgdd.vn/Products/Images/57/150956/pin-sac-du-phong-20000-mah-xiaomi-vnx4212cn-trang-anhava-600x600.jpg",
+      "images": [
+            {
+              "id": 1,
+            "src": "https://cdn.tgdd.vn/Products/Images/54/253802/bluetooth-airpods-pro-magsafe-charge-apple-mlwk3-thumb-600x600.jpeg"
+          }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Pin",
+        "title": "Dùng 6 giờ - Sạc 2 giờ"
+      }, {
+        "id": 2,
+        "name": "Cổng sạc",
+        "title": "Lightning,Sạc không dây"
+      }, {
+        "id": 3,
+        "name": "Công nghệ âm thanh",
+        "title": "Adaptive EQChip Apple H1Custom high-excursion Apple driver,Custom High Dynamic Range Amplifier,Spatial Audio"
+      }, {
+        "id": 4,
+        "name": "Tương thích",
+        "title": "Android,iOS (iPhone),iPadOS (iPad),MacOS (Macbook, iMac)"
+      }, {
+        "id": 5,
+        "name": "Tiện ích",
+        "title": "Chống nước IPX4,Có mic thoạiSạc không dây"
+      }, {
+        "id": 6,
+        "name": "Hỗ trợ kết nối:",
+        "title": "Bluetooth 5.0"
+      }, {
+        "id": 7,
+        "name": "Điều khiển bằng:",
+        "title": "Cảm ứng lực"
+      }, {
+        "id": 8,
+        "name": "Hãng",
+        "title": "Apple"
+      }],
+      "assess": 
+        {
+          "total": 20,
+          "star": 
+                {
+                  "star_1":0,
+                  "star_2": 0,
+                  "star_3": 0,
+                  "star_4": 20,
+                  "star_5": 0
+                },
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Ngon, bổ, rẻ",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          }
+        ,{
+          "id":2,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 5,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":3,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        },{
+          "id":4,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":5,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }]
+        }
+      
+  
+  } ,
+  {
+    "id": 120,
+      "name": "Pin sạc dự phòng Polymer 10.000mAh Type C Fast Charge Xiaomi Mi Power Bank 3",
+      "price": 700000,
+      "discount": 5,
+      "image":"https://cdn.tgdd.vn/Products/Images/57/216136/pin-sac-du-phong-polymer-10000mah-xiaomi-mi-18w-avatar-1-1-600x600.jpg",
+      "images": [
+            {
+              "id": 1,
+            "src": "https://cdn.tgdd.vn/Products/Images/54/253802/bluetooth-airpods-pro-magsafe-charge-apple-mlwk3-thumb-600x600.jpeg"
+          }
+          ],
+      "data": [
+        {
+        "id": 1,
+        "name": "Pin",
+        "title": "Dùng 6 giờ - Sạc 2 giờ"
+      }, {
+        "id": 2,
+        "name": "Cổng sạc",
+        "title": "Lightning,Sạc không dây"
+      }, {
+        "id": 3,
+        "name": "Công nghệ âm thanh",
+        "title": "Adaptive EQChip Apple H1Custom high-excursion Apple driver,Custom High Dynamic Range Amplifier,Spatial Audio"
+      }, {
+        "id": 4,
+        "name": "Tương thích",
+        "title": "Android,iOS (iPhone),iPadOS (iPad),MacOS (Macbook, iMac)"
+      }, {
+        "id": 5,
+        "name": "Tiện ích",
+        "title": "Chống nước IPX4,Có mic thoạiSạc không dây"
+      }, {
+        "id": 6,
+        "name": "Hỗ trợ kết nối:",
+        "title": "Bluetooth 5.0"
+      }, {
+        "id": 7,
+        "name": "Điều khiển bằng:",
+        "title": "Cảm ứng lực"
+      }, {
+        "id": 8,
+        "name": "Hãng",
+        "title": "Apple"
+      }],
+      "assess": 
+        {
+          "total": 20,
+          "star": 
+                {
+                  "star_1":0,
+                  "star_2": 0,
+                  "star_3": 0,
+                  "star_4": 20,
+                  "star_5": 0
+                },
+          "comments": [
+            {
+            "id":1,
+            "name_user": "Trần Duy Tuấn",
+            "content":"Ngon, bổ, rẻ",
+            "star": 4,
+            "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+          }
+        ,{
+          "id":2,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 5,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":3,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        },{
+          "id":4,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }
+        ,{
+          "id":5,
+          "name_user": "Trần Duy Tuấn",
+          "content":"Ngon, bổ, rẻ",
+          "star": 3,
+          "image": "https://cdn.tgdd.vn/comment/52243063/F0A8BC87-BBF2-44BF-A5D0-6658C1D00AD37IYRE.jpeg"
+        }]
+        }
+      
+  
   }],
   
   "brands":[
