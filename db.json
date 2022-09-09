@@ -454,8 +454,8 @@
       "rom": "128 GB",
       "sim" :"1 Nano SIM & 1 eSIMHỗ trợ 5G",
       "battery": "3687 mAh20 W",
-      "rating": 23,
-      "rating_number":5
+      "rating": 5,
+      "rating_number":23
     },
     {
       "id" : 3,
@@ -475,8 +475,8 @@
       "rom": "256 GB",
       "sim" :"2 Nano SIM,Hỗ trợ 4G",
       "battery": "5160 mAh",
-      "rating": 27,
-      "rating_number":3
+      "rating": 3,
+      "rating_number":14
     },
     {
       "id" : 4,
@@ -495,7 +495,7 @@
       "rom": "64 GB",
       "sim" :"1 Nano SIM & 1 eSIM,Hỗ trợ 4G",
       "battery": "3110 mAh,18 W",
-      "rating": 27,
+      "rating": 2,
       "rating_number":4
     },
     {
@@ -516,7 +516,7 @@
       "rom": "64 GB",
       "sim" :"1 Nano SIM & 1 eSIM,Hỗ trợ 4G",
       "battery": "3969 mAh",
-      "rating": 27,
+      "rating": 5,
       "rating_number":4
     },
     {
@@ -536,8 +536,8 @@
       "rom": "128 GB",
       "sim" :"2 Nano SIM,Hỗ trợ 4G",
       "battery": "5000 mAh,33 W",
-      "rating": 27,
-      "rating_number":4
+      "rating": 3,
+      "rating_number":41
     },
     {
       "id" : 7,
@@ -556,8 +556,8 @@
       "rom": "256 GB",
       "sim" :"2 Nano SIM,Hỗ trợ 5G",
       "battery": "4500 mAh,65 W",
-      "rating": 27,
-      "rating_number":5
+      "rating": 3,
+      "rating_number":51
     },
     {
       "id" : 8,
@@ -577,8 +577,8 @@
       "rom": "256 GB",
       "sim" :"2 Nano SIM,Hỗ trợ 5G",
       "battery": "4500 mAh,65 W",
-      "rating": 27,
-      "rating_number":4
+      "rating": 4,
+      "rating_number":41
      
     },
     {
@@ -598,7 +598,7 @@
       "rom": "64 GB",
       "sim" :"2 Nano SIM",
       "battery": "4000 mAh",
-      "rating": 27,
+      "rating": 5,
       "rating_number":4
      
     
@@ -620,7 +620,7 @@
       "rom": "128 GB",
       "sim" :"2 Nano SIM,Hỗ trợ 5G",
       "battery": "5000 mAh, 67W",
-      "rating": 27,
+      "rating": 3,
       "rating_number":5
     }
     
